@@ -1,6 +1,6 @@
 # OpenPro
 
-# Install1
+# Install
 
 ## CLI
 - git clone git@github.com:shyjtal/OpenPro.git
@@ -25,3 +25,10 @@
 - **env: macOS 15**
 - **feature**:
     - auto choose app while not appoint by marring file name
+
+# version 1.0.2
+- **date: 2025/08/19**
+- **env: macOS 16**
+- **feature**:
+    - fix a bug that connot use defalut app in external shell when use this app in else shell
+
